@@ -1,8 +1,3 @@
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/mohimenly1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <h1 align="center">Hey there 👋, I'm <span style="color:#3b82f6;">Mohimen Tantoush</span></h1>
 <h3 align="center">🚀 Full Stack & Mobile Developer | 🛠️ Laravel • Vue • Flutter</h3>
 
