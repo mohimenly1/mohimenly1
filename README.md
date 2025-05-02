@@ -41,9 +41,9 @@
 ### 🚀 Featured Projects
 ```bash
 📦 Cheetah Delivery
-🔗 https://github.com/yourusername/cheetah-delivery
+🔗 https://github.com/cheetah-delivery
 📱 Cross-platform delivery app with Flutter & Laravel
 
 🎓 School Manager
-🔗 https://github.com/yourusername/school-system
+🔗 https://github.com/school-system
 🧠 Cloud school system for managing students, grades, and schedules
