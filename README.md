@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&width=435&lines=Full+Stack+Web+Developer;Flutter+Mobile+Engineer;API+Integration+Specialist;Firebase+%7C+MySQL+%7C+Vue+%7C+Laravel" alt="Typing SVG" />
 </p>
 
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohimenly1/mohimenly1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 ---
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
