@@ -1,5 +1,6 @@
+### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Mobile+Dev;Laravel+%7C+Vue+%7C+Flutter;Clean+Code+Lover;Firebase+%7C+MySQL+%7C+API+Design" alt="Typing SVG" />
+  <img src="https://github.com/mohimenly1/mohimenly1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#3b82f6;">Mohimen Tantoush</span></h1>
